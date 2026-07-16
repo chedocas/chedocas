@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👨🏻‍💻 Pedro Cezar
 
-<!--
-**chedocas/chedocas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência da Computação`**
 
-Here are some ideas to get you started:
+Me chamo Pedro Cezar Pires Henriques, tenho 20 anos e sou natural do Brasília-DF. Concluí o ensino médio no colégio Leonardo Da Vinci e atualmente estou cursando Ciência da Computação no Ceub. Sou muito apegado à tecnologia desde que sou criança e adoro aprender cada dia mais sobre esse mundo! Compartilho experiências de trabalho e estudos no meu LinkedIn "[Pedro Cezar](https://www.linkedin.com/in/pedro-cezar-7a0306379/)".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OutSystems" 
+    title="OutSystems"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.brandfetch.io/idgGlZ6VSa/theme/dark/symbol.svg?c=1bxid64Mup7aczewSAYMX&t=1778742119087" 
+/>
+
+
+
+
